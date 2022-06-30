@@ -14,4 +14,4 @@ Example image shows 2 targets.  1 will be hit by the 90 degree AoE blast and the
 
 ![image](https://user-images.githubusercontent.com/1475235/176586555-10554611-11ae-4742-8760-32c0905119c1.png)
 
-Debug raycasts are drawn to show hits and misses.  Turn on gizmos to see them.
+Debug.DrawRay is used to show hits and misses.  Turn on gizmos to see them.
