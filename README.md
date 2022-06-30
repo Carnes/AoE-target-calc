@@ -2,10 +2,11 @@
 Example project to help Airashawn from Infallible Code discord.
 The purpose is to demonstrate AoE targetting of both 360 and specific Y angles.
 
-There are 3 main MonoBehaviors.
+There are 4 main MonoBehaviors.
 - Target.cs - Target to get hit by AoE damage
 - Bomb_AoE.cs - AoE 360 degrees
 - Bomb_AoE_Angle.cs - AoE 90 degrees
+- UiControls.cs - Functionality for UI buttons that spawn targets and bombs
 
 ![image](https://user-images.githubusercontent.com/1475235/176586235-6b360f67-69d8-4f31-a432-bff0f8535c31.png)
 
